@@ -1,5 +1,7 @@
 # Python Project:-Expense Splitter
 #Group Number 12
+
+
 Objective:
 The goal of this Expense Splitter is to help users divide shared expenses fairly among a group of people. The program will:
 
